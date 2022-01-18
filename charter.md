@@ -112,14 +112,14 @@ _A distinct section requiring intentional navigation by the User shall be provid
 
     (source: https://github.com/cncf/toc/blob/main/tags/cncf-tags.md#responsibilities--empowerment-of-tags)
 
-1. Charter / Description of WG
-   1. {This document once it's done}
-2. Time Box 2. 2 quarters (winter 21-22)
-3. Deliverables 3. github.com/observe-k8s: An umbrella organization for repos that realize the goals of this org 4. Repositories containing demo code and examples on how to run and utilize observability tools
-   _ Examples of use cases we mentioned from whitepaper
-   _ Also delivered as an interactive environment for exploration 5. Catalog of resources for learning about observability
-
-###
+- Charter / Description of WG (_This document once it's merged_)
+- Time Box:
+  - 2 quarters (Q1-Q2 2022)
+- Deliverables:
+  - github.com/observe-k8s: An umbrella organization for repos that realize the goals of this org
+  - Repositories containing demo code and examples on how to run and utilize observability tools
+  - Examples of use cases we mentioned from whitepaper
+  - Catalog of resources for learning about observability
 
 ### Interactive Demo environment & playground
 
@@ -167,8 +167,6 @@ TAG Observability.
 - How to visualize execution of Operators, Controllers en masse / aggregate.
 - Engage with SIG Instrumentation re: gaps and opportunities for signals from k8s
 - Collect and Curate templates, recipes, examples, demos highlighting the observation of cloud native systems and workloads (CNCF Projects).
-
-##
 
 ## Personas
 
