@@ -14,15 +14,16 @@ This working group aims to provide:
 _A distinct section requiring intentional navigation by the User shall be provided for open source projects which are not CNCF Projects if this opportunity arises._
 
 ## WG (Working Group) Requirements for Launch
-```
-    TAGs may choose to spawn focused and time-limited working groups to achieve some of their responsibilities (for example, to produce a specific educational white paper, or portfolio gap analysis report). Working groups should have a clearly documented charter, timeline (typically a few quarters at most), and set of deliverables. Once the timeline has elapsed, or the deliverables delivered, the working group dissolves, or is explicitly re-chartered.
-```
 
-    (source: https://github.com/cncf/toc/blob/main/tags/cncf-tags.md#responsibilities--empowerment-of-tags)
+  > TAGs may choose to spawn focused and time-limited working groups to achieve some of their responsibilities (for example, to produce a specific educational white paper, or portfolio gap analysis report). Working groups should have a clearly documented charter, timeline (typically a few quarters at most), and set of deliverables. Once the timeline has elapsed, or the deliverables delivered, the working group dissolves, or is explicitly re-chartered.
+
+source: [CNCF TOC: Empowerment of TAGS](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md#responsibilities--empowerment-of-tags)
 
 - Charter / Description of WG (_This document once it's merged_)
 - Time Box:
-  - 3 quarters (Q1-Q3 2022)
+  - 3 quarters
+    - Q1 Planning
+    - Q2 - Q3 Implementation and Launch
 - Deliverables:
   - github.com/observe-k8s: An umbrella organization for repos that realize the goals of this org
   - Repositories containing demo code and examples on how to run and utilize observability tools
