@@ -13,9 +13,7 @@ This working group aims to provide:
 
 _A distinct section requiring intentional navigation by the User shall be provided for open source projects which are not CNCF Projects if this opportunity arises._
 
-
 ## WG (Working Group) Requirements for Launch
-
 ```
     TAGs may choose to spawn focused and time-limited working groups to achieve some of their responsibilities (for example, to produce a specific educational white paper, or portfolio gap analysis report). Working groups should have a clearly documented charter, timeline (typically a few quarters at most), and set of deliverables. Once the timeline has elapsed, or the deliverables delivered, the working group dissolves, or is explicitly re-chartered.
 ```
@@ -204,7 +202,7 @@ The following is a non-exhaustive sample list of activities and deliverables tha
 
 ### Contributors to this document
 
-- Matt Young ([halcyondude@gmail.com](mailto:halcyondude@gmail.com))
-- Ken Finnigan ([ken@kenfinnigan.me](mailto:ken@kenfinnigan.me), Workday)
-- Michael Hausenblas ([hausenbl@amazon.com]](mailto:hausenbl@amazon.com), AWS)
 - Daniel Khan ([daniel@khan.io](mailto:daniel@khan.io), Elastic)
+- Ken Finnigan ([ken@kenfinnigan.me](mailto:ken@kenfinnigan.me), Workday)
+- Matt Young ([halcyondude@gmail.com](mailto:halcyondude@gmail.com))
+- Michael Hausenblas ([hausenbl@amazon.com]](mailto:hausenbl@amazon.com), AWS)
